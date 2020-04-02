@@ -1,0 +1,12 @@
+<package>
+  <name>ffxiunit</name>
+  <version>1.0.0.0</version>
+  <type>addon</type>
+  <dependencies>
+	<dependency>player</dependency>
+	<dependency>party</dependency>
+    <dependency>target</dependency>
+	<dependency>memory</dependency>
+	<dependency>items</dependency>
+  </dependencies>
+</package>
